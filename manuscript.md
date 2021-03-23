@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://lubianat.github.io/curation/" />
   <meta name="citation_pdf_url" content="https://lubianat.github.io/curation/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://lubianat.github.io/curation/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://lubianat.github.io/curation/v/d257a7b60c8781f1fbcd3df787aa0db1c2705847/" />
-  <meta name="manubot_html_url_versioned" content="https://lubianat.github.io/curation/v/d257a7b60c8781f1fbcd3df787aa0db1c2705847/" />
-  <meta name="manubot_pdf_url_versioned" content="https://lubianat.github.io/curation/v/d257a7b60c8781f1fbcd3df787aa0db1c2705847/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://lubianat.github.io/curation/v/a8443ffda523f5d89efee61a9380d1082c653c85/" />
+  <meta name="manubot_html_url_versioned" content="https://lubianat.github.io/curation/v/a8443ffda523f5d89efee61a9380d1082c653c85/" />
+  <meta name="manubot_pdf_url_versioned" content="https://lubianat.github.io/curation/v/a8443ffda523f5d89efee61a9380d1082c653c85/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://lubianat.github.io/curation/v/d257a7b60c8781f1fbcd3df787aa0db1c2705847/))
+([permalink](https://lubianat.github.io/curation/v/a8443ffda523f5d89efee61a9380d1082c653c85/))
 was automatically generated
-from [lubianat/curation@d257a7b](https://github.com/lubianat/curation/tree/d257a7b60c8781f1fbcd3df787aa0db1c2705847)
+from [lubianat/curation@a8443ff](https://github.com/lubianat/curation/tree/a8443ffda523f5d89efee61a9380d1082c653c85)
 on March 23, 2021.
 </em></small>
 
@@ -122,7 +122,7 @@ Second, your work will be findable by anyone who wants to work with the data. Fo
 
 You will also be rewarded in other ways. A table in Zenodo with a DOI is citable, which means you get recognition for your valuable work. Empirical research also suggests that publications whose datasets are open are cited more often [@wikidata:Q93150448]. Also, openness is increasingly recognized as an essential aspect of scientific work that should be recognized and rewarded [@wikidata:Q52622119]. Publishers and funders recognize the importance of open data and are moving in that direction with their policies [@wikidata:Q59134700].
 
-Lastly, if you connect your data to Wikidata, the community benefits from an integrated knowledge graph. For instance, it enables powerful queries via the SPARQL query system. It enables the use of the Scholia platform to visualize the topics you have curated. It makes it visible for everyone to improve academic search engines. Although Wikidata is not yet in widespread use for academic purposes [@wikidata:Q66724305], it has a lot of potential for research - especially for biocuration and organized reviews [@wikidata:Q87830400].
+Lastly, if you connect your data to Wikidata, the community benefits from an integrated knowledge graph. For instance, it enables powerful queries via the SPARQL query system. It enables the use of the Scholia platform to visualize the topics you have curated. It makes it visible for everyone to improve academic search engines. Although Wikidata is not yet in widespread use for academic purposes [@wikidata:Q66724305], it has a lot of potential for research - especially for biocuration and organized reviews [@wikidata:Q87830400]. Wikidata is a gateway to fancy ways to integrate knowledge - like structured reviews [@wikidata:Q91866899] - that is acessible without coding skills, and with tutorials in tens of languages (<https://www.wikidata.org/wiki/Wikidata:Introduction>).
 
 Thousands of systematic reviews are published each year [@wikidata:Q52584125], and a large part, if not most, of the curation performed in the course of these reviews remains invisible, unusable, and unrecognized. Systematic reviews could be designed from the start to have their curated datasets in a format that makes it easy to share them later. We argued that this is an excellent opportunity for open science, where there is a lot to be gained from a small additional effort. .This large amount of hidden small curated datasets, if combined and distributed, could make a massive impact on the flow of scientific information in the life sciences.
 

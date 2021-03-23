@@ -20,6 +20,7 @@ content/02.body.md:17:citable
 content/02.body.md:17:datasets
 content/02.body.md:17:funders
 content/02.body.md:17:Zenodo
+content/02.body.md:19:acessible
 content/02.body.md:19:biocuration
 content/02.body.md:19:Scholia
 content/02.body.md:19:SPARQL
