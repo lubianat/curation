@@ -1,26 +1,30 @@
 ---
-title: "Manuscript Title"
+title: "Conecting the biocuration longtrail"
 keywords:
-  - markdown
+  - biocuration
   - publishing
-  - manubot
+  - review
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+  - github: KleberNeves
+    name: Kleber Neves
+    initials: KN
+    orcid: 0000-0001-9519-4909
+    email: kleber.na@gmail.com
     affiliations:
       - Department of Something, University of Whatever
     funders:
       - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
+  - github: lubianat
+    twitter: lubianat
+    name: Tiago Lubiana
+    initials: TL
     orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
+    email: tiago.lubiana.alves@usp.br
     affiliations:
       - Department of Something, University of Whatever
       - Department of Whatever, University of Something
+    funders:
+      - Grant \#2019/26284-1 from the São Paulo Research Foundation (FAPESP).
+
+
