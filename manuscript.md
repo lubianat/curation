@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://lubianat.github.io/curation/" />
   <meta name="citation_pdf_url" content="https://lubianat.github.io/curation/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://lubianat.github.io/curation/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://lubianat.github.io/curation/v/f7297a25da57fd093a1d19f62d45876b62420eae/" />
-  <meta name="manubot_html_url_versioned" content="https://lubianat.github.io/curation/v/f7297a25da57fd093a1d19f62d45876b62420eae/" />
-  <meta name="manubot_pdf_url_versioned" content="https://lubianat.github.io/curation/v/f7297a25da57fd093a1d19f62d45876b62420eae/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://lubianat.github.io/curation/v/eb159f1a5a007994406cdc66ac937a67a838aa17/" />
+  <meta name="manubot_html_url_versioned" content="https://lubianat.github.io/curation/v/eb159f1a5a007994406cdc66ac937a67a838aa17/" />
+  <meta name="manubot_pdf_url_versioned" content="https://lubianat.github.io/curation/v/eb159f1a5a007994406cdc66ac937a67a838aa17/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://lubianat.github.io/curation/v/f7297a25da57fd093a1d19f62d45876b62420eae/))
+([permalink](https://lubianat.github.io/curation/v/eb159f1a5a007994406cdc66ac937a67a838aa17/))
 was automatically generated
-from [lubianat/curation@f7297a2](https://github.com/lubianat/curation/tree/f7297a25da57fd093a1d19f62d45876b62420eae)
+from [lubianat/curation@eb159f1](https://github.com/lubianat/curation/tree/eb159f1a5a007994406cdc66ac937a67a838aa17)
 on April 14, 2021.
 </em></small>
 
@@ -105,17 +105,16 @@ on April 14, 2021.
 
 
 ## Draft {.page_break_before}
+Whenever we systematically search and record information from the literature, we generate curation data. Curation data comes in many flavors: a group of gene expression datasets related to a given disease, a set of articles united by the same methodology, a list of entities (species, drugs, microRNAs, etc.) and extracted information about them. In systematic reviews, the systematicity is unavoidable - the data in these tables are used when articles are considered for inclusion. However, the data collection achieved after many hours of work are almost always relegated to forgotten folders or lost supplementary tables.
 
-Whenever we sytematically search and record information from the literature, we genenerate curation data. Curation data comes in many flavours: a group of gene expression datasets related to a given disease, a set of articles united by the same methodology, a list of entities (species, drugs, microRNAs etc) and extracted information about then. In systematic reviews, the systematicity is unavoidable - the data in these tables are used when articles are considered for inclusion. However, these data, produced after many hours of focused, specialized work, are almost always relegated to forgotten folders or lost supplementary tables.
+While we often ignore the value of curation as data, curation tables are the distilled products of several days of highly specialized work.
+They can serve as evidence for organizing claims, both in our minds and on knowledge bases; thus, they count as "data" [@wikidata:Q31044579].
+Data sharing of raw and processed data is maturing as a core part of science [@wikidata:Q106498418], and curation data deserves to be included in the movement.    
 
-While we often ignore the value of curation as data, curation tables are distilled product of several days of highly-specialized work.
-They can serve as evidence for organizing claims, both in our minds and on knowledge bases, thus, they count as "data" [@wikidata:Q31044579].
-Data sharing of raw and processed data is maturing [@wikidata:Q106498418], and curation data deserves to be included in the momentum.    
-
-Connecting the "long tail" of small datasets is a valuable prospect that extends beyond raw and processed data too[@wikidata:Q24790499].. 
-We know of large biocuration projects, such as UniProt and Gene Ontology, which became  core tools of modern life sciences.
-Systematic curations, albeit smaller, are high-quality structured perspectives of experts, and can complement the ecosystem of bio knowledge bases. 
-With the growth of collaborative knowledge graphs, like Wikidata [@wikkidata:Q87830400] and BIO2RDF [@wikidata:Q27921271], small curations become first-class citizens in the knowledge exchange framework, adding value for users and recognition for curators.
+Connecting the "long tail" of small datasets is a valuable prospect that extends beyond raw and processed data, too[@wikidata:Q24790499]. 
+We know of large biocuration projects, such as UniProt and Gene Ontology, which became core tools of modern life sciences.
+Systematic curations, albeit smaller, are high-quality structured perspectives of experts and can complement the ecosystem of bio knowledge bases. 
+With the growth of collaborative knowledge graphs, like Wikidata [@wikidata:Q87830400] and BIO2RDF [@wikidata:Q27921271], small curations become first-class citizens in the knowledge exchange framework, adding value for users and recognition for curators.
 
 Take an example from our own work on what we mean by "curation data". One of the authors works in a large project whose goal is to perform direct replications of biomedical experiments published by Brazilian scientists [@wikidata:Q61799268]. To select the experiments to be replicated, a large systematic review of the last 20 years of biomedical literature was conducted, with a focus on finding articles which made use of specific experimental methods. As a result, we obtained information about dozens of articles - about the methods used in the articles (e.g. RT-PCR or cell viability assay) and experimental models (e.g. cell line or species) -, information that was extracted and checked by two separate biomedical researchers. In the course of the project, we used these data to select the sample of experiments to be replicated in the end - that was the goal of this data collection - and the information regarding the experiments that were replicated will be made public when the project is finished. However, despite its agregate value, most of the data obtained in this step remained hidden in some abandoned folder.
 

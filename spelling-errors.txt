@@ -9,9 +9,7 @@ dataset
 datasets
 FAPESP
 findable
-flavours
 funders
-genenerate
 interoperable
 Kleber
 KleberNeves
@@ -27,7 +25,6 @@ São
 Scholia
 SPARQL
 systematicity
-sytematically
 Tiago
 UniProt
 XXXX
