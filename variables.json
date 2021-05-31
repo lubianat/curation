@@ -13,7 +13,7 @@
       "Olavo Bohrer Amaral",
       "Kleber Neves"
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Sharing intermediate datasets from systematic reviews: connecting the long tail of data\" />\n<meta name=\"citation_title\" content=\"Sharing intermediate datasets from systematic reviews: connecting the long tail of data\" />\n<meta property=\"og:title\" content=\"Sharing intermediate datasets from systematic reviews: connecting the long tail of data\" />\n<meta property=\"twitter:title\" content=\"Sharing intermediate datasets from systematic reviews: connecting the long tail of data\" />\n<meta name=\"dc.date\" content=\"2021-05-31\" />\n<meta name=\"citation_publication_date\" content=\"2021-05-31\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Tiago Lubiana\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-2473-2313\" />\n<meta name=\"twitter:creator\" content=\"@lubianat\" />\n<meta name=\"citation_author\" content=\"Olavo Bohrer Amaral\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Medical Biochemistry Leopoldo De Meis, Federal University of Rio de Janeiro\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-4299-8978\" />\n<meta name=\"citation_author\" content=\"Kleber Neves\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Medical Biochemistry Leopoldo De Meis, Federal University of Rio de Janeiro\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-9519-4909\" />\n<link rel=\"canonical\" href=\"https://lubianat.github.io/curation/\" />\n<meta property=\"og:url\" content=\"https://lubianat.github.io/curation/\" />\n<meta property=\"twitter:url\" content=\"https://lubianat.github.io/curation/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://lubianat.github.io/curation/\" />\n<meta name=\"citation_pdf_url\" content=\"https://lubianat.github.io/curation/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://lubianat.github.io/curation/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://lubianat.github.io/curation/v/a040a15a029e35b0e0ac49be988a6849330d0b6d/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://lubianat.github.io/curation/v/a040a15a029e35b0e0ac49be988a6849330d0b6d/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://lubianat.github.io/curation/v/a040a15a029e35b0e0ac49be988a6849330d0b6d/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Sharing intermediate datasets from systematic reviews: connecting the long tail of data\" />\n<meta name=\"citation_title\" content=\"Sharing intermediate datasets from systematic reviews: connecting the long tail of data\" />\n<meta property=\"og:title\" content=\"Sharing intermediate datasets from systematic reviews: connecting the long tail of data\" />\n<meta property=\"twitter:title\" content=\"Sharing intermediate datasets from systematic reviews: connecting the long tail of data\" />\n<meta name=\"dc.date\" content=\"2021-05-31\" />\n<meta name=\"citation_publication_date\" content=\"2021-05-31\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Tiago Lubiana\" />\n<meta name=\"citation_author_institution\" content=\"School of Pharmaceutical Sciences, University of São Paulo\" />\n<meta name=\"citation_author_institution\" content=\"Ronin Institute\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-2473-2313\" />\n<meta name=\"twitter:creator\" content=\"@lubianat\" />\n<meta name=\"citation_author\" content=\"Olavo Bohrer Amaral\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Medical Biochemistry Leopoldo De Meis, Federal University of Rio de Janeiro\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-4299-8978\" />\n<meta name=\"citation_author\" content=\"Kleber Neves\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Medical Biochemistry Leopoldo De Meis, Federal University of Rio de Janeiro\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-9519-4909\" />\n<link rel=\"canonical\" href=\"https://lubianat.github.io/curation/\" />\n<meta property=\"og:url\" content=\"https://lubianat.github.io/curation/\" />\n<meta property=\"twitter:url\" content=\"https://lubianat.github.io/curation/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://lubianat.github.io/curation/\" />\n<meta name=\"citation_pdf_url\" content=\"https://lubianat.github.io/curation/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://lubianat.github.io/curation/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://lubianat.github.io/curation/v/f8bfd9fb8c85ab431c45f979e674d229250481ae/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://lubianat.github.io/curation/v/f8bfd9fb8c85ab431c45f979e674d229250481ae/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://lubianat.github.io/curation/v/f8bfd9fb8c85ab431c45f979e674d229250481ae/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
     "bibliography": [
       "content/manual-references.json"
     ],
@@ -33,8 +33,8 @@
         "orcid": "0000-0003-2473-2313",
         "email": "tiago.lubiana.alves@usp.br",
         "affiliations": [
-          "Department of Something, University of Whatever",
-          "Department of Whatever, University of Something"
+          "School of Pharmaceutical Sciences, University of São Paulo",
+          "Ronin Institute"
         ],
         "funders": [
           "Grant \\#2019/26284-1 from the São Paulo Research Foundation (FAPESP)."
@@ -72,11 +72,11 @@
     ],
     "affiliations": [
       {
-        "affiliation": "Department of Something, University of Whatever",
+        "affiliation": "School of Pharmaceutical Sciences, University of São Paulo",
         "affiliation_number": 1
       },
       {
-        "affiliation": "Department of Whatever, University of Something",
+        "affiliation": "Ronin Institute",
         "affiliation_number": 2
       },
       {
@@ -89,15 +89,15 @@
       "repo_slug": "lubianat/curation",
       "repo_owner": "lubianat",
       "repo_name": "curation",
-      "commit": "a040a15a029e35b0e0ac49be988a6849330d0b6d",
-      "triggering_commit": "a040a15a029e35b0e0ac49be988a6849330d0b6d",
-      "build_url": "https://github.com/lubianat/curation/commit/a040a15a029e35b0e0ac49be988a6849330d0b6d/checks",
+      "commit": "f8bfd9fb8c85ab431c45f979e674d229250481ae",
+      "triggering_commit": "f8bfd9fb8c85ab431c45f979e674d229250481ae",
+      "build_url": "https://github.com/lubianat/curation/commit/f8bfd9fb8c85ab431c45f979e674d229250481ae/checks",
       "job_url": "https://github.com/lubianat/curation/runs/run3"
     },
     "html_url": "https://lubianat.github.io/curation/",
     "pdf_url": "https://lubianat.github.io/curation/manuscript.pdf",
-    "html_url_versioned": "https://lubianat.github.io/curation/v/a040a15a029e35b0e0ac49be988a6849330d0b6d/",
-    "pdf_url_versioned": "https://lubianat.github.io/curation/v/a040a15a029e35b0e0ac49be988a6849330d0b6d/manuscript.pdf",
+    "html_url_versioned": "https://lubianat.github.io/curation/v/f8bfd9fb8c85ab431c45f979e674d229250481ae/",
+    "pdf_url_versioned": "https://lubianat.github.io/curation/v/f8bfd9fb8c85ab431c45f979e674d229250481ae/manuscript.pdf",
     "manubot_version": "0.5.0",
     "rootstock_commit": "f09ce13278540620afe5a67840ef23284d4d83f9",
     "manuscript_stats": {

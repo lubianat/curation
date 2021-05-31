@@ -5,7 +5,7 @@ biocuration
 Bohrer
 citable
 CSV
-curation
+Curation
 curations
 dataset
 datasets
@@ -27,6 +27,7 @@ OBA
 Olavo
 Paulo
 RDF
+Ronin
 São
 Scholia
 SPARQL

@@ -29,8 +29,8 @@ header-includes: |-
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
   <meta name="citation_author" content="Tiago Lubiana" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
+  <meta name="citation_author_institution" content="School of Pharmaceutical Sciences, University of São Paulo" />
+  <meta name="citation_author_institution" content="Ronin Institute" />
   <meta name="citation_author_orcid" content="0000-0003-2473-2313" />
   <meta name="twitter:creator" content="@lubianat" />
   <meta name="citation_author" content="Olavo Bohrer Amaral" />
@@ -45,9 +45,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://lubianat.github.io/curation/" />
   <meta name="citation_pdf_url" content="https://lubianat.github.io/curation/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://lubianat.github.io/curation/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://lubianat.github.io/curation/v/a040a15a029e35b0e0ac49be988a6849330d0b6d/" />
-  <meta name="manubot_html_url_versioned" content="https://lubianat.github.io/curation/v/a040a15a029e35b0e0ac49be988a6849330d0b6d/" />
-  <meta name="manubot_pdf_url_versioned" content="https://lubianat.github.io/curation/v/a040a15a029e35b0e0ac49be988a6849330d0b6d/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://lubianat.github.io/curation/v/f8bfd9fb8c85ab431c45f979e674d229250481ae/" />
+  <meta name="manubot_html_url_versioned" content="https://lubianat.github.io/curation/v/f8bfd9fb8c85ab431c45f979e674d229250481ae/" />
+  <meta name="manubot_pdf_url_versioned" content="https://lubianat.github.io/curation/v/f8bfd9fb8c85ab431c45f979e674d229250481ae/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +69,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://lubianat.github.io/curation/v/a040a15a029e35b0e0ac49be988a6849330d0b6d/))
+([permalink](https://lubianat.github.io/curation/v/f8bfd9fb8c85ab431c45f979e674d229250481ae/))
 was automatically generated
-from [lubianat/curation@a040a15](https://github.com/lubianat/curation/tree/a040a15a029e35b0e0ac49be988a6849330d0b6d)
+from [lubianat/curation@f8bfd9f](https://github.com/lubianat/curation/tree/f8bfd9fb8c85ab431c45f979e674d229250481ae)
 on May 31, 2021.
 </em></small>
 
@@ -87,7 +87,7 @@ on May 31, 2021.
     · ![Twitter icon](images/twitter.svg){.inline_icon}
     [lubianat](https://twitter.com/lubianat)<br>
   <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     School of Pharmaceutical Sciences, University of São Paulo; Ronin Institute
      · Funded by Grant \#2019/26284-1 from the São Paulo Research Foundation (FAPESP).
   </small>
 
