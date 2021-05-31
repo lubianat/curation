@@ -1,30 +1,33 @@
 ---
-title: "Conecting the biocuration longtrail"
+title: "Sharing intermediate datasets from systematic reviews: connecting the long tail of data"
 keywords:
   - biocuration
   - publishing
   - review
 lang: en-US
 authors:
-  - github: KleberNeves
-    name: Kleber Neves
-    initials: KN
-    orcid: 0000-0001-9519-4909
-    email: kleber.na@gmail.com
-    affiliations:
-      - Department of Something, University of Whatever
-    funders:
-      - Grant XXXXXXXX
   - github: lubianat
     twitter: lubianat
     name: Tiago Lubiana
     initials: TL
-    orcid: XXXX-XXXX-XXXX-XXXX
+    orcid: 0000-0003-2473-2313
     email: tiago.lubiana.alves@usp.br
     affiliations:
       - Department of Something, University of Whatever
       - Department of Whatever, University of Something
     funders:
       - Grant \#2019/26284-1 from the São Paulo Research Foundation (FAPESP).
-
+  - name: Olavo Bohrer Amaral
+    initials: OBA
+    orcid: 0000-0002-4299-8978
+    email: olavo@bioqmed.ufrj.br
+    affiliations:
+      - Institute of Medical Biochemistry Leopoldo De Meis, Federal University of Rio de Janeiro
+  - github: KleberNeves
+    name: Kleber Neves
+    initials: KN
+    orcid: 0000-0001-9519-4909
+    email: kleber.na@gmail.com
+    affiliations:
+      - Institute of Medical Biochemistry Leopoldo De Meis, Federal University of Rio de Janeiro
 
