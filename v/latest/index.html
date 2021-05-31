@@ -4,11 +4,12 @@
   <meta charset="utf-8" />
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <meta name="author" content="Kleber Neves" />
   <meta name="author" content="Tiago Lubiana" />
-  <meta name="dcterms.date" content="2021-05-20" />
+  <meta name="author" content="Olavo Bohrer Amaral" />
+  <meta name="author" content="Kleber Neves" />
+  <meta name="dcterms.date" content="2021-05-31" />
   <meta name="keywords" content="biocuration, publishing, review" />
-  <title>Conecting the biocuration longtrail</title>
+  <title>Sharing intermediate datasets from systematic reviews: connecting the long tail of data</title>
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
@@ -25,35 +26,38 @@
   Suggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html
   -->
   <meta name="dc.format" content="text/html" />
-  <meta name="dc.title" content="Conecting the biocuration longtrail" />
-  <meta name="citation_title" content="Conecting the biocuration longtrail" />
-  <meta property="og:title" content="Conecting the biocuration longtrail" />
-  <meta property="twitter:title" content="Conecting the biocuration longtrail" />
-  <meta name="dc.date" content="2021-05-20" />
-  <meta name="citation_publication_date" content="2021-05-20" />
+  <meta name="dc.title" content="Sharing intermediate datasets from systematic reviews: connecting the long tail of data" />
+  <meta name="citation_title" content="Sharing intermediate datasets from systematic reviews: connecting the long tail of data" />
+  <meta property="og:title" content="Sharing intermediate datasets from systematic reviews: connecting the long tail of data" />
+  <meta property="twitter:title" content="Sharing intermediate datasets from systematic reviews: connecting the long tail of data" />
+  <meta name="dc.date" content="2021-05-31" />
+  <meta name="citation_publication_date" content="2021-05-31" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="Kleber Neves" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_orcid" content="0000-0001-9519-4909" />
   <meta name="citation_author" content="Tiago Lubiana" />
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
   <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author_orcid" content="0000-0003-2473-2313" />
   <meta name="twitter:creator" content="@lubianat" />
+  <meta name="citation_author" content="Olavo Bohrer Amaral" />
+  <meta name="citation_author_institution" content="Institute of Medical Biochemistry Leopoldo De Meis, Federal University of Rio de Janeiro" />
+  <meta name="citation_author_orcid" content="0000-0002-4299-8978" />
+  <meta name="citation_author" content="Kleber Neves" />
+  <meta name="citation_author_institution" content="Institute of Medical Biochemistry Leopoldo De Meis, Federal University of Rio de Janeiro" />
+  <meta name="citation_author_orcid" content="0000-0001-9519-4909" />
   <link rel="canonical" href="https://lubianat.github.io/curation/" />
   <meta property="og:url" content="https://lubianat.github.io/curation/" />
   <meta property="twitter:url" content="https://lubianat.github.io/curation/" />
   <meta name="citation_fulltext_html_url" content="https://lubianat.github.io/curation/" />
   <meta name="citation_pdf_url" content="https://lubianat.github.io/curation/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://lubianat.github.io/curation/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://lubianat.github.io/curation/v/cdf70b7be53f21ec01d5edf6655a9b60e1965fde/" />
-  <meta name="manubot_html_url_versioned" content="https://lubianat.github.io/curation/v/cdf70b7be53f21ec01d5edf6655a9b60e1965fde/" />
-  <meta name="manubot_pdf_url_versioned" content="https://lubianat.github.io/curation/v/cdf70b7be53f21ec01d5edf6655a9b60e1965fde/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://lubianat.github.io/curation/v/a040a15a029e35b0e0ac49be988a6849330d0b6d/" />
+  <meta name="manubot_html_url_versioned" content="https://lubianat.github.io/curation/v/a040a15a029e35b0e0ac49be988a6849330d0b6d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://lubianat.github.io/curation/v/a040a15a029e35b0e0ac49be988a6849330d0b6d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,29 +67,20 @@
 </head>
 <body>
 <header id="title-block-header">
-<h1 class="title">Conecting the biocuration longtrail</h1>
+<h1 class="title">Sharing intermediate datasets from systematic reviews: connecting the long tail of data</h1>
 </header>
 <p><small><em>
 This manuscript
-(<a href="https://lubianat.github.io/curation/v/cdf70b7be53f21ec01d5edf6655a9b60e1965fde/">permalink</a>)
+(<a href="https://lubianat.github.io/curation/v/a040a15a029e35b0e0ac49be988a6849330d0b6d/">permalink</a>)
 was automatically generated
-from <a href="https://github.com/lubianat/curation/tree/cdf70b7be53f21ec01d5edf6655a9b60e1965fde">lubianat/curation@cdf70b7</a>
-on May 20, 2021.
+from <a href="https://github.com/lubianat/curation/tree/a040a15a029e35b0e0ac49be988a6849330d0b6d">lubianat/curation@a040a15</a>
+on May 31, 2021.
 </em></small></p>
 <h2 id="authors">Authors</h2>
 <ul>
-<li><p><strong>Kleber Neves</strong><br>
-<img src="images/orcid.svg" class="inline_icon" alt="ORCID icon" />
-<a href="https://orcid.org/0000-0001-9519-4909">0000-0001-9519-4909</a>
-· <img src="images/github.svg" class="inline_icon" alt="GitHub icon" />
-<a href="https://github.com/KleberNeves">KleberNeves</a><br>
-<small>
-Department of Something, University of Whatever
-· Funded by Grant XXXXXXXX
-</small></p></li>
 <li><p><strong>Tiago Lubiana</strong><br>
 <img src="images/orcid.svg" class="inline_icon" alt="ORCID icon" />
-<a href="https://orcid.org/XXXX-XXXX-XXXX-XXXX">XXXX-XXXX-XXXX-XXXX</a>
+<a href="https://orcid.org/0000-0003-2473-2313">0000-0003-2473-2313</a>
 · <img src="images/github.svg" class="inline_icon" alt="GitHub icon" />
 <a href="https://github.com/lubianat">lubianat</a>
 · <img src="images/twitter.svg" class="inline_icon" alt="Twitter icon" />
@@ -94,16 +89,31 @@ Department of Something, University of Whatever
 Department of Something, University of Whatever; Department of Whatever, University of Something
 · Funded by Grant #2019/26284-1 from the São Paulo Research Foundation (FAPESP).
 </small></p></li>
+<li><p><strong>Olavo Bohrer Amaral</strong><br>
+<img src="images/orcid.svg" class="inline_icon" alt="ORCID icon" />
+<a href="https://orcid.org/0000-0002-4299-8978">0000-0002-4299-8978</a><br>
+<small>
+Institute of Medical Biochemistry Leopoldo De Meis, Federal University of Rio de Janeiro
+</small></p></li>
+<li><p><strong>Kleber Neves</strong><br>
+<img src="images/orcid.svg" class="inline_icon" alt="ORCID icon" />
+<a href="https://orcid.org/0000-0001-9519-4909">0000-0001-9519-4909</a>
+· <img src="images/github.svg" class="inline_icon" alt="GitHub icon" />
+<a href="https://github.com/KleberNeves">KleberNeves</a><br>
+<small>
+Institute of Medical Biochemistry Leopoldo De Meis, Federal University of Rio de Janeiro
+</small></p></li>
 </ul>
 <h2 class="page_break_before" id="abstract">Abstract</h2>
+<p>To conduct a systematic review, researches spend hours of work on extracting data from and about the individual papers that are screened for the synthesis. This step often leads to the production of spreadsheets of structured data and metadata about scientific publications, which are the basis for later steps in the project. These datasets will often remain unavailable, hidden in some local folder, despite the time invested to produce them and the potential value it has for the scientific community. We argue that, with a little planning, making these intermediate datasets available to the public is a simple but valuable step for the scientific community, which also allows the recognition of the work done.</p>
 <h2 class="page_break_before" id="draft">Draft</h2>
 <p>Whenever we systematically search and record information from the literature, we generate curation data. Curation data comes in many flavors: a group of gene expression datasets related to a given disease, a set of articles united by the same methodology, a list of entities (species, drugs, microRNAs, etc.) and extracted information about them. In systematic reviews, the systematicity is unavoidable - the data in these tables are used when articles are considered for inclusion. However, the data collection achieved after many hours of work are almost always relegated to forgotten folders or lost supplementary tables.</p>
 <p>While we often ignore the value of curation as data, curation tables are the distilled products of several days of highly specialized work.
 They can serve as evidence for organizing claims, both in our minds and on knowledge bases; thus, they count as “data” <span class="citation" data-cites="mnDxYfkY">[<a href="#ref-mnDxYfkY" role="doc-biblioref">1</a>]</span>.
 Data sharing of raw and processed data is maturing as a core part of science <span class="citation" data-cites="VqbZaZLZ">[<a href="#ref-VqbZaZLZ" role="doc-biblioref">2</a>]</span>, and curation data deserves to be included in the movement.</p>
-<p>Connecting the “long tail” of small datasets is a valuable prospect that extends beyond raw and processed data, too<span class="citation" data-cites="pjT2o3iA">[<a href="#ref-pjT2o3iA" role="doc-biblioref">3</a>]</span>.
-We know of large biocuration projects, such as UniProt and Gene Ontology, which became core tools of modern life sciences.
-Systematic curations, albeit smaller, are high-quality structured perspectives of experts and can complement the ecosystem of bio knowledge bases.
+<p>Connecting the “long tail” of small datasets is a valuable prospect that extends beyond raw and processed data, too <span class="citation" data-cites="pjT2o3iA">[<a href="#ref-pjT2o3iA" role="doc-biblioref">3</a>]</span>.
+Some large biocuration projects, such as UniProt and Gene Ontology, have became core tools of modern life sciences.
+Systematic curations, albeit smaller, are high-quality structured perspectives of experts and can complement the ecosystem of bio-knowledge bases.
 With the growth of collaborative knowledge graphs, like Wikidata <span class="citation" data-cites="3GqlN9Dk">[<a href="#ref-3GqlN9Dk" role="doc-biblioref">4</a>]</span> and BIO2RDF <span class="citation" data-cites="WjyGWYID">[<a href="#ref-WjyGWYID" role="doc-biblioref">5</a>]</span>, small curations become first-class citizens in the knowledge exchange framework, adding value for users and recognition for curators.</p>
 <p>Take an example from our own work on what we mean by “curation data”. One of the authors works in a large project whose goal is to perform direct replications of biomedical experiments published by Brazilian scientists <span class="citation" data-cites="F2mYjDJ0">[<a href="#ref-F2mYjDJ0" role="doc-biblioref">6</a>]</span>. To select the experiments to be replicated, a large systematic review of the last 20 years of biomedical literature was conducted, with a focus on finding articles which made use of specific experimental methods. As a result, we obtained information about dozens of articles - about the methods used in the articles (e.g. RT-PCR or cell viability assay) and experimental models (e.g. cell line or species) -, information that was extracted and checked by two separate biomedical researchers. In the course of the project, we used these data to select the sample of experiments to be replicated in the end - that was the goal of this data collection - and the information regarding the experiments that were replicated will be made public when the project is finished. However, despite its agregate value, most of the data obtained in this step remained hidden in some abandoned folder.</p>
 <p>These are dozens of hours of specialized work, with a concrete result - the intermediate dataset containing the metadata about the articles - which remained unusable. We believe that the tools exist to overcome this with little effort and make these small intermediate datasets usable, unlocking their potential. We advocate for sharing small (or not so small) curated datasets made by every researcher. We argue that this would benefit both the researchers’ careers and, collectively, provide a new core knowledge resource for life scientists.</p>
@@ -111,16 +121,17 @@ With the growth of collaborative knowledge graphs, like Wikidata <span class="ci
 <p>Second, your work will be findable by anyone who wants to work with the data. For instance, Google Datasets makes it very easy to find the work (see Box). Others will find it, and you will find it. It makes science a more communal and shared endeavor, it helps bring in scientists who otherwise could not participate <span class="citation" data-cites="Nik5HsSb">[<a href="#ref-Nik5HsSb" role="doc-biblioref">7</a>]</span>. Also, most likely, it is you (or someone in your research group) that will be the one who will try to use the dataset again in the future. Say, in 5 years time, when you need it, you will be able to find your curated dataset on Google, instead of spending hours sifting through old e-mails, Google Drive, Dropbox, or even hard drives. You are your most likely future collaborator.</p>
 <p>You will also be rewarded in other ways. A table in Zenodo with a DOI is citable, which means you get recognition for your valuable work. Empirical research also suggests that publications whose datasets are open are cited more often <span class="citation" data-cites="UMdjIZRO">[<a href="#ref-UMdjIZRO" role="doc-biblioref">8</a>]</span>. Also, openness is increasingly recognized as an essential aspect of scientific work that should be recognized and rewarded <span class="citation" data-cites="exsuYqRN">[<a href="#ref-exsuYqRN" role="doc-biblioref">9</a>]</span>. Publishers and funders recognize the importance of open data and are moving in that direction with their policies <span class="citation" data-cites="RXhfyxZm">[<a href="#ref-RXhfyxZm" role="doc-biblioref">10</a>]</span>.</p>
 <p>Lastly, if you connect your data to Wikidata, the community benefits from an integrated knowledge graph. For instance, it enables powerful queries via the SPARQL query system. It enables the use of the Scholia platform to visualize the topics you have curated. It makes it visible for everyone to improve academic search engines. Although Wikidata is not yet in widespread use for academic purposes <span class="citation" data-cites="wy6SIIc5">[<a href="#ref-wy6SIIc5" role="doc-biblioref">11</a>]</span>, it has a lot of potential for research - especially for biocuration and organized reviews <span class="citation" data-cites="3GqlN9Dk">[<a href="#ref-3GqlN9Dk" role="doc-biblioref">4</a>]</span>. Wikidata is a gateway to fancy ways to integrate knowledge - like structured reviews <span class="citation" data-cites="EYKlkdUZ">[<a href="#ref-EYKlkdUZ" role="doc-biblioref">12</a>]</span> - that is acessible without coding skills, and with tutorials in tens of languages (<a href="https://www.wikidata.org/wiki/Wikidata:Introduction" class="uri">https://www.wikidata.org/wiki/Wikidata:Introduction</a>).</p>
-<p>Planning makes all the difference to our argument here. Publicizing these intermediate datasets is a lot of value for little work - but it’s little work only if there is a plan. There is a trade-off between the time spent planning the data collection and the time it takes to publicize the datasets at the end of the process. Coming back to our example, the referred intermediate table is now available at LINK. However, we did not plan for public release of those data. It was an afterthought. The consequence is that it took many hours of work to gather the data from various files and spreadsheets and then to double check and standardize the information. Much of this later work could have been avoided had we followed an agreed standard format and had a data management/preservation plan.</p>
-<p>Thousands of systematic reviews are published each year <span class="citation" data-cites="W9JKI5cA">[<a href="#ref-W9JKI5cA" role="doc-biblioref">13</a>]</span>, and a large part, if not most, of the curation performed in the course of these reviews remains invisible, unusable, and unrecognized. Systematic reviews could be designed from the start to have their curated datasets in a format that makes it easy to find and share them later. We argued that this is an excellent opportunity for open science, where there is a lot to be gained from a small additional effort. This large amount of hidden small curated datasets, if combined and distributed, could make a massive impact on the flow of scientific information in the life sciences.</p>
+<p>Planning makes all the difference to our argument here. Publicizing these intermediate datasets is a lot of value for little work - but it’s little work only if there is a plan. There is a trade-off between the time spent planning the data collection and the time it takes to publicize the datasets at the end of the process. Coming back to our example, the referred intermediate table is now available (<a href="https://zenodo.org/record/4737506" class="uri">https://zenodo.org/record/4737506</a>). However, we did not plan for public release of those data, it was an afterthought. The consequence is that it took many hours of work to gather the data from various files and spreadsheets and then to double check and standardize the information. Much of this work could have been avoided had we followed an agreed standard format and had a data management and preservation plan established from the start.</p>
+<p>Thousands of systematic reviews are published each year <span class="citation" data-cites="W9JKI5cA">[<a href="#ref-W9JKI5cA" role="doc-biblioref">13</a>]</span>, and a large part of the curation performed in the course of these reviews remains invisible, unusable, and unrecognized. Systematic reviews could be designed from the start to have their curated datasets in a format that makes it easy to find and use them later. We argued that this is an excellent opportunity for open science, where there is a lot to be gained from a small additional effort. This large amount of hidden small curated datasets, if distributed and combined, could have a massive impact on the flow of scientific information in the life sciences.</p>
 <h1 id="how-to-connect-your-curation-box">How to connect your curation (BOX)</h1>
-<p><code>Tentei colocar essa parte no frame do FAIR, mas não sei se usar DOIs tá em reusable ou interoperable. De qualquer forma, acho que isso aqui devia ser uma caixinha no artigo, sabe? Separado do texto principal, como um "passo a passo sugerido pra fazer isso com os seus datasets". Por isso eu trouxe essa seção pro final e adicionei uns trechos redundantes com o "Why", caso alguém resolva ler só a caixinha.</code></p>
-<p>Our proposal tries to balance the cost of making these intermediate datasets available with the value for the researchers who performed the data curation and for the scientific community at large <span class="citation" data-cites="1CP2Qpuj8">[<a href="#ref-1CP2Qpuj8" role="doc-biblioref">14</a>]</span>. Hence our focus on systematic reviews, where the data curation is already a necessary step and the data provenance - sources used and methods of curation - will likely be already documented in the published article. Because the structured dataset is a side effect of the research project, the only added step is making the dataset available - researchers likely already have a structured table (say, in CSV or Excel format) or it can be easily exported from other tools, like database management systems (such as Microsoft Access or Libre Office Base). While we give general pointers here, we develop more detailed step-by-step tutorials, which can be found here: <strong>LINK</strong>.</p>
+<p>Our proposal tries to balance the cost of making these intermediate datasets available with the value for the researchers who performed the data curation and for the scientific community at large <span class="citation" data-cites="1CP2Qpuj8">[<a href="#ref-1CP2Qpuj8" role="doc-biblioref">14</a>]</span>. Hence our focus on systematic reviews, where the data curation is already a necessary step and the data provenance - sources used and methods of curation - will likely be already documented in the published article. Because the structured dataset is a side effect of the research project, the only added step is making the dataset available - researchers likely already have a structured table (say, in CSV or Excel format) or it can be easily exported from other tools, like database management systems (such as Microsoft Access or Libre Office Base). In any case, the same steps could be followed for other structured datasets, not only those coming from systematic reviews. While we give general pointers here, we develop more detailed step-by-step tutorials, which can be found here: <strong>LINK</strong>.</p>
 <ol type="1">
 <li><p>Make it findable: nowadays, there are many possibilities for making datasets available. We recommend Zenodo, which will make the dataset citable, with its own DOI. As we mentioned above, the curation of these datasets is specialized work, it is a contribution to the scientific community. Being citable makes it easy for this work to be recognized. Another benefit is that Zenodo datasets are automatically indexed by data-specific search engines, such as Google Datasets, which makes it findable by interested researchers.</p></li>
 <li><p>Make it reusable: Describe datasets with enough information to facilitate reuse. A simple solution is to have a data dictionary available together with the dataset. A data dictionary is essentially a thorough description of what is contained in each column of the dataset. On a similar note, whenever possible, use unique identifiers (e.g., identify scientific articles by their DOI, instead of a full citation).</p></li>
 <li><p>Make it interoperable: if you feel comfortable, an extra-step is to add the data to open knowledge repositories, such as Wikidata (wikidata.org), while referencing your publicly available table. This makes your dataset available in a standard format, integrated with data from many other sources.</p></li>
 </ol>
+<h2 id="author-contribution-statement">Author Contribution Statement</h2>
+<p>TL, OBA and KN conceived the idea. TL and KN wrote the initial draft. TL, OBA and KN made critical revisions to the manuscript.</p>
 <h2 class="page_break_before" id="references">References</h2>
 <!-- Explicitly insert bibliography here -->
 <div id="refs" class="references hanging-indent" role="doc-bibliography">
