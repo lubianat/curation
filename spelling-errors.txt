@@ -1,6 +1,8 @@
 acessible
 agregate
+Amaral
 biocuration
+Bohrer
 citable
 CSV
 curation
@@ -11,14 +13,18 @@ FAPESP
 findable
 funders
 interoperable
+Janeiro
 Kleber
 KleberNeves
 Libre
 Lubiana
 lubianat
+Meis
 microRNAs
 neuroanatomy
 Neves
+OBA
+Olavo
 Paulo
 RDF
 São
@@ -27,6 +33,4 @@ SPARQL
 systematicity
 Tiago
 UniProt
-XXXX
-XXXXXXXX
 Zenodo
