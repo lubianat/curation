@@ -73,5 +73,8 @@ content/02.body.md:35:dataset
 content/02.body.md:35:datasets
 content/02.body.md:37:curation
 content/02.body.md:37:interoperable
-content/02.body.md:41:OBA
-content/02.body.md:41:OBA
+content/02.body.md:41:FAPESP
+content/02.body.md:41:Paulo
+content/02.body.md:41:São
+content/02.body.md:45:OBA
+content/02.body.md:45:OBA

@@ -45,9 +45,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://lubianat.github.io/curation/" />
   <meta name="citation_pdf_url" content="https://lubianat.github.io/curation/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://lubianat.github.io/curation/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://lubianat.github.io/curation/v/e68de816ffeb01d99f035237e13aa21718048500/" />
-  <meta name="manubot_html_url_versioned" content="https://lubianat.github.io/curation/v/e68de816ffeb01d99f035237e13aa21718048500/" />
-  <meta name="manubot_pdf_url_versioned" content="https://lubianat.github.io/curation/v/e68de816ffeb01d99f035237e13aa21718048500/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://lubianat.github.io/curation/v/3ead0915d55f29c6b894839cc3b9989b7428f388/" />
+  <meta name="manubot_html_url_versioned" content="https://lubianat.github.io/curation/v/3ead0915d55f29c6b894839cc3b9989b7428f388/" />
+  <meta name="manubot_pdf_url_versioned" content="https://lubianat.github.io/curation/v/3ead0915d55f29c6b894839cc3b9989b7428f388/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +69,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://lubianat.github.io/curation/v/e68de816ffeb01d99f035237e13aa21718048500/))
+([permalink](https://lubianat.github.io/curation/v/3ead0915d55f29c6b894839cc3b9989b7428f388/))
 was automatically generated
-from [lubianat/curation@e68de81](https://github.com/lubianat/curation/tree/e68de816ffeb01d99f035237e13aa21718048500)
+from [lubianat/curation@3ead091](https://github.com/lubianat/curation/tree/3ead0915d55f29c6b894839cc3b9989b7428f388)
 on June 1, 2021.
 </em></small>
 
@@ -153,6 +153,10 @@ Our proposal tries to balance the cost of making these intermediate datasets ava
 2.  Make it reusable: Describe datasets with enough information to facilitate reuse. A simple solution is to have a data dictionary available together with the dataset. A data dictionary is essentially a thorough description of what is contained in each column of the dataset. On a similar note, whenever possible, use unique identifiers (e.g., identify scientific articles by their DOI, instead of a full citation). [@wikidata:Q33037209] 
 
 3.  Make it interoperable: if you feel comfortable, an extra-step is to add the data to open knowledge repositories, such as Wikidata (<https://wikidata.org>), while referencing your publicly available table. This makes your curation available in a standard format, and immediately integrates it with data from many other sources.
+
+## Acknowledgments
+
+TL is supported by grant #2019/26284-1, São Paulo Research Foundation (FAPESP).
 
 ## Author Contribution Statement
 
