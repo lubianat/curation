@@ -36,6 +36,7 @@ content/02.body.md:21:funders
 content/02.body.md:21:Zenodo
 content/02.body.md:23:acessible
 content/02.body.md:23:biocuration
+content/02.body.md:23:scholia
 content/02.body.md:23:Scholia
 content/02.body.md:23:SPARQL
 content/02.body.md:25:datasets
@@ -64,12 +65,13 @@ content/02.body.md:33:datasets
 content/02.body.md:33:Datasets
 content/02.body.md:33:findable
 content/02.body.md:33:findable
+content/02.body.md:33:zenodo
 content/02.body.md:33:Zenodo
 content/02.body.md:33:Zenodo
 content/02.body.md:35:dataset
 content/02.body.md:35:dataset
 content/02.body.md:35:datasets
-content/02.body.md:37:dataset
+content/02.body.md:37:curation
 content/02.body.md:37:interoperable
 content/02.body.md:41:OBA
 content/02.body.md:41:OBA

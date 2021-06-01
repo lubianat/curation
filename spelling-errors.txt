@@ -5,10 +5,10 @@ biocuration
 Bohrer
 citable
 CSV
-Curation
+curation
 curations
 dataset
-datasets
+Datasets
 FAPESP
 findable
 funders
